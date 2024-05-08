@@ -18,7 +18,7 @@ The goal is to decouple environment-specific configuration from the build proces
 There are a number of different strategies to achieve this goal but some of the most popular are listed below with their relative effort/complexity, pros and cons.
 <br/><br/>
 
-## Recommended Approach ##
+## Recommendation ##
 
 The numerous strategies listed below each have there own benefits and drawbacks, however I feel **[8. Injecting Global Variables](#8.-injecting-global-variables)** is the easiest to understand and requires minimal effort to take advantage of the approach with an existing codebase. Simply add the some javascript either in a seperate .js file or directly into index.html hosted in your public folder and they will be globally available using the window object.
 
