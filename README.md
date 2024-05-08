@@ -1,4 +1,4 @@
-# Web Application Delivery Recommendations #
+# Static Web Application Delivery Recommendations #
 
 This is a summary of popular methods for incorporating the "Build once, deploy everywhere" principal of DevOps when delivering a client-side rendered or single page application on Azure. There are many different frameworks that can be used to develop these types of applications and include React JS, Angular, NextJS, etc. Here, we will be focusing on React JS but these principles are transportable to a number of other similar frameworks. 
 
